@@ -1,0 +1,62 @@
+/*----------- CAJA ----------- */
+.caja {
+    position: absolute;
+    left: 20%;
+    font-family: Century Gothic, CenturyGothic, AppleGothic, sans-serif;
+    color: #ffffff;
+    font-size: 18px;
+    font-weight: 100px;
+    text-align: center;
+    width: 60%;
+    background: #889ccf;
+    margin: 0 0 25px;
+    overflow: hidden;
+    padding: 20px;
+    border-radius: 35px 0px 35px 0px;
+    -moz-border-radius: 35px 0px 35px 0px;
+    -webkit-border-radius: 35px 0px 35px 0px;
+    border: 2px solid #5878ca;
+    margin-top: 90px;
+  }
+  
+  .caja2 {
+    position: absolute;
+    left: 20%;
+    font-family: Century Gothic, CenturyGothic, AppleGothic, sans-serif;
+    color: #ffffff;
+    font-size: 18px;
+    font-weight: 100px;
+    text-align: center;
+    width: 60%;
+    background: #889ccf;
+    margin: 0 0 25px;
+    overflow: hidden;
+    padding: 20px;
+    border-radius: 35px 0px 35px 0px;
+    -moz-border-radius: 35px 0px 35px 0px;
+    -webkit-border-radius: 35px 0px 35px 0px;
+    border: 2px solid #5878ca;
+    margin-top: 430px;
+  }
+  
+  .caja3 {
+    position: absolute;
+    left: 20%;
+    font-family: Century Gothic, CenturyGothic, AppleGothic, sans-serif;
+    color: #ffffff;
+    font-size: 18px;
+    font-weight: 100px;
+    text-align: center;
+    width: 60%;
+    background: #889ccf;
+    margin: 0 0 25px;
+    overflow: hidden;
+    padding: 20px;
+    border-radius: 35px 0px 35px 0px;
+    -moz-border-radius: 35px 0px 35px 0px;
+    -webkit-border-radius: 35px 0px 35px 0px;
+    border: 2px solid #5878ca;
+    margin-top: 750px;
+  }
+  
+  
